@@ -4,7 +4,7 @@
 
 모두에게 존경받는 개발자를 목표로 노력하는 조정우의 이력서 입니다.
 
-- 조정우(jojungwoo)
+- 조정우 (jojungwoo)
 - Email : jungwoo5759@gmail.com
 - Github : https://github.com/JJungwoo
 - GitBlog : https://jjungwoo.github.io
@@ -39,11 +39,17 @@
   
 ## 프로젝트
 
-- 대학원
+- 한양대 대학원
   - 서비스 명 : 32Gbps 데이터 서비스를 위한 extreme storage 입출력 기술 개발
-  - 기간 : 2017.10.01 ~ 2018.06.15
+  - 기간 : 2017.10 ~ 2018.06
   - 수행 역할 : 입출력 가속화를 위한 디스크 캐싱 커널 모듈 개발, 실험 환경 구성 및 벤치마크 툴을 사용한 성능 실험
   - 사용 기술 : C, 커널 모듈, 분산 파일시스템(glusterfs) 구축 및 실험, IO 벤치마크 툴 사용(fio), 모니터링 툴(tmux, iostat)
+
+- 엑셈
+  - 서비스 명 : MongoDB 모니터링 솔루션
+  - 기간 : 2019.08 ~ 2020.03
+  - 수행 역할 : 데이터 수집 데몬 에이전트 개발, MongoDB 환경 구축, MongoDB 자동 구축 dockerfile 스크립트 작성, 모니터링 솔루션 개발 환경 k8s replicaset으로 구성 및 테스트 환경 k8s의 statefulset으로 구성
+  - 사용 기술 : C, MongoDB, Docker, k8s, Postgresql
 
 ## 외부활동
 
