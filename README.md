@@ -30,6 +30,7 @@
 - OS
   - Windows
   - Linux 계열(CentOS, Ubuntu, Aix, SunOS)
+  - MacOS
   
 - ETC
   - 이슈 및 스케줄 관리(GitHub, Trello)
